@@ -36,8 +36,8 @@ ResultsPage(this.bmiResult,this.resultText,this.interpret);
              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
              crossAxisAlignment: CrossAxisAlignment.center,
              children: <Widget>[
-               Text(bmiResult,style:kResultTextStlye),
-               Text(resultText,style: kBMIResultTextStyle,),
+               Text(resultText,style:kResultTextStlye),
+               Text(bmiResult,style: kBMIResultTextStyle,),
                Text(interpret,textAlign:TextAlign.center,style:kBodyText),
 
              ],

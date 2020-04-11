@@ -27,7 +27,7 @@ const kNumTextStyle=TextStyle(
   );
 
   const kBMIResultTextStyle= TextStyle(
-      fontSize: 60.0,
+      fontSize: 100.0,
       fontWeight: FontWeight.bold
   );
 
